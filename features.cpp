@@ -2,8 +2,7 @@
 
 // Work inside this function on branch 'feature-grades'
 void manageGrades() {
-    // TODO: Implement grade tracking logic
-    std::cout << "(Under construction)" << std::endl;
+    std::cout << "*displays grades*" << std::endl;
 }
 
 // Work inside this function on branch 'feature-attendance'
