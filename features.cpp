@@ -4,6 +4,7 @@
 void manageGrades() {
     // TODO: Implement grade tracking logic
     std::cout << "(Under construction)" << std::endl;
+    printf('ofek added this')
 }
 
 // Work inside this function on branch 'feature-attendance'
