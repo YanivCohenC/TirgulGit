@@ -8,7 +8,7 @@ void manageGrades() {
 
 // Work inside this function on branch 'feature-attendance'
 void manageAttendance() {
-    // TODO: Implement attendance logs
+    // TODO: BOOM 
     std::cout << "(Under construction)" << std::endl;
 }
 
